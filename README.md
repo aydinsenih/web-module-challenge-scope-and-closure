@@ -43,6 +43,7 @@ Find the file `index.js` and complete the tasks.
 Edit the `ReadMe` file with your answers.
 
 1. In your own words, define closure (1-2 sentences).
+
 2. Study the following code, then answer the questions below.
 
 ```js
@@ -64,8 +65,11 @@ dansRoll();
 ```
 
 a. Where is closure used in this code? How can you tell?
+genareting a new number is closure. because its combination of functions
 b. Compare and contrast calling `dansRoll` the first and second time. What is always the same? What could change?
+both for Dan so output`s name variable Dan, rolled number could be any number between 1 and 6 each time it is called.
 c. What is the lexical scope of `newRoll`? 
+personalDice is lexical scope of newRoll
 
 ### Task 2c - Exit Ticket
 
@@ -109,4 +113,4 @@ addSix(21); // returns 27
 
 Follow these steps for completing your project.
 
-- [ ] Submit via code grade
+- [x] Submit via code grade
